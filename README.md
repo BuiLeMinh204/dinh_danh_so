@@ -1,3 +1,21 @@
+Project name:
+- xx ( Kendiniz bir projenize isim oluşturabilirsiniz. )
+
+Who are you: ( Bu kısmı kendinize göre düzenlemelisiniz )
+- name: xx
+- xx
+- xx
+- xx
+- xx
+- xx
+- xx
+
+Project details:
+- Kısaca proje detaylarından bahsedebilirsiniz.
+
+Vision:
+- Kısaca proje vizyonunuzu yazmalısınız 
+
 # Dự án Smart Contract "Dinh Danh So" (Digital Identity) trên Soroban
 
 Đây là một dự án smart contract được xây dựng trên nền tảng Soroban (Stellar), cung cấp một giải pháp phi tập trung để quản lý và xác minh danh tính kỹ thuật số.
